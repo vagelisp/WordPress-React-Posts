@@ -1,2 +1,3 @@
 # WordPress-React-Posts
-Created with CodeSandbox
+
+Display WordPress posts using React
